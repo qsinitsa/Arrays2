@@ -33,7 +33,7 @@ public class Task1 {
         }
         System.out.println("Минимальная сумма трат за день равна " + min + " рублей");
         System.out.println("Максимальная сумма трат за день равна " + max + " рублей");
-        // Задание 3
+        //  Задание 3
         double average = (double) amout / array.length;
         System.out.println("Среднее значение за 30 дней составляет " + average + " рублей");
         // Задание 4
